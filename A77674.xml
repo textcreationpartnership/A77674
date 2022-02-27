@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>In the eleaventh moneth, on the nineth day of the moneth, as I was waiting upon the Lord in the land of my nativity, the spirit of the Lord then signified unto me the second time, saying, arise and take up a lamentation over New-England; and being made willing, have writ as followeth.</title>
+            <author>Browne, John, of Nevis.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77674</idno>
+            <idno type="STC">Wing B5120A</idno>
+            <idno type="STC">ESTC R170840</idno>
+            <idno type="EEBO-CITATION">45578190</idno>
+            <idno type="OCLC">ocm 45578190</idno>
+            <idno type="VID">172144</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77674)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172144)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2615:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>In the eleaventh moneth, on the nineth day of the moneth, as I was waiting upon the Lord in the land of my nativity, the spirit of the Lord then signified unto me the second time, saying, arise and take up a lamentation over New-England; and being made willing, have writ as followeth.</title>
+                  <author>Browne, John, of Nevis.</author>
+                  <author>Braister, Margaret.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>printed in the year 1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: John Browne of Nevis.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Includes: A warning from the great God of Heaven and Earth, to the rulers and magistrates of Boston New-England ... / [signed] Margaret Braister.</note>
+                  <note>Reproduction of original in the Friends' Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Persecution --  New England --  Early works to 1800.</term>
+               <term>New England --  Religious life and customs.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="testimony">
+            <pb facs="tcp:172144:1"/>
+            <head>In the Eleaventh Moneth, on the Nineth Day of the Moneth, as I was waiting upon the Lord in the Land
+of my Nativity, the Spirit of the Lord then ſignified unto me the ſecond time, ſaying, Ariſe and take up
+a Lamentation over NEW-ENGLAND; and being made willing, have writ as followeth.</head>
+            <p>O <hi>New-England, New-England!</hi> thou whoſe Rulers have perſecuted the Lord's Prophets, and have cauſed ſome to be ſlain that he ſent into thee, to warn thy Inhabi<g ref="char:EOLhyphen"/>tants
+of the Judgments of the Lord due unto them by reaſon of their Sins and Tranſgreſſions, as alſo to declare unto them of the Everlaſting Way of God's Salvati<g ref="char:EOLhyphen"/>on
+to the end that they might have repented, and ſo been turned to it, and then would the Lord have gathered them together, as a Hen gathers her Chickens toge<g ref="char:EOLhyphen"/>ther
+under her Wings, but they would not, but ſleighted the Lord's Counſel, and would have none of his Reproofs, O <hi>New-England!</hi> that thy Inhabitants
+would have laboured in that their Day of Viſitation to have underſtood the things that did belong to their Souls Peace, then would it have been well with them; for then
+would the Lord have with-held his Judgments from coming upon thee, ſo as to Deſtroy thy Inhabitants; and ſurely he would not have ſuffered the <hi>Heathen</hi> to have made ſo
+many Widows and Fatherleſs Children among them, but that Cruel Hands and Hard Hearts of many of thy Rulers and People hath the Lord found guilty of perſecuting and
+ſhedding the Blood of his Servants, who ſought their Good; therefore hath he ſuffered the Blood of many of thy Inhabitants to be ſhed, O <hi>New-England,</hi> by a Nation, who
+by outward appearance were much inferiour to them, yet the Lord ſuffered the <hi>Heathen</hi> for a time to be a Rod in his Hand to correct thy Inhabitants: and as thy Rulers have
+had no Mercy upon an Honeſt and True-hearted People, when the Lord hath ſuffered them to come under the Power of their cruel Laws, but have Whipt, Impriſoned and
+Cruelly Uſed them; ſo have thy Inhabitants found no Mercy from their Enemies, but have been cruelly ſlain by them whenſoever the Lord hath ſuffered them to get the upper
+hand: and thus have they received the Reward of their Doings; and the Cup which they have filled to others, hath been filled to themſelves double, by which rhe Day of Re<g ref="char:EOLhyphen"/>pentence
+is now hid from their Eyes; for in the Grave they cannot find it. And there are many yet behind in thee, O <hi>New-England,</hi> which labour to fill up the meaſure of
+their Iniquity, by Perſecuting the Lord's People, Whipping, and Halling to Priſon for Worſhipping of the Lord; yet themſelves will proclaim Faſt Dayes, and call them,
+<hi>Dayes of Humiliation,</hi> thinking that way to appeaſe the Lord's Anger that is kindled againſt them; <hi>But I will not as yet ſmell,</hi> ſaith the Lord, <hi>in their Aſſemblies, until they break
+off their Sins by ſpeedy and unfeigned Repentance:</hi> Therefore O ye Inhabitants of <hi>New-England,</hi> both Rulers, Prieſts and People, who have had your hands in Perſecuting
+the Innocent, behold and look on him whom your Sins have pierced, that ſo you may come to Weep and Mourn bitterly, for the Lord is riſen to Avenge himſelf of his
+Enemies.</p>
+            <p>Therefore, O <hi>New-England, New-England!</hi> A Lamentation is taken up over thee to whoſe Inhabitants the Lord hath called, but they gave him no anſwer, he hath ſtretcht
+forth his hand for their help, but they have not regarded it; therefore thus ſaith the Lord, <hi>A Day is coming and the time draweth nigh to many of them, wherein they ſhall call,
+but I will not anſwe<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; then ſhall they ſtretch forth their hand, but I will not regard; for their Sins make a ſeparation between me and them, and their Iniquities with-hold good things from
+them.</hi> Yet in thee, O <hi>New-England,</hi> in thee hath the Lord a Seed to gather Home to himſelf, for whoſe ſake he hath born long, and doth ſtill bear with thy Rulers, Prieſts
+and People for in the midſt of Tryals hath the Cry of this Righteous Seed, ſeeking their good entred into his Ears, and he being moved with Compaſſion for his own Seed ſake
+<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath born long, and in his Undeclarable Mercy hath ſpread many of thy Inhabitants until this Day.</p>
+            <p>Therefore O ye Magiſtrates and Rulers, Prieſts and People in <hi>Boſton,</hi> or elſe-where in <hi>New-England,</hi> who have had either Hand or Heart in making, conſenting to, or exe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing
+your wicked and cruel Laws againſt the Lord's People, who are in Scorn called <hi>Quakers,</hi> The Lord hath beheld your Doings, by which his Anger is kindled againſt
+<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou; ſo as that he will not alwayes bear with you, neither will he ſuffer you alwayes to boaſt your ſelves againſt his People, whoſe Cauſe he will plead with you; <hi>For the Rod
+<gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Wicked ſhall not alwayes reſt upon the Back of the Righteous:</hi> Though your Hands may be lifted (up, and your Stroak may be heavy) upon them for a time, yet its but a lit<g ref="char:EOLhyphen"/>tle
+while that ſuch ſhall remain, who ſeek to hinder or let the Work of the Lord from going on; for ſurely as a mighty Man of War is the Lord ariſen, whoſe Sword is in his
+<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>and ready furbiſhed for the Battel, and all of you that will not be removed out of your <hi>Cain</hi>-like ſpirits by his gentle Drawings, you will aſſuredly feel the Stroak of his Arm,
+by which he will remove you: for the Lord is a jealous God, and will not give his Glory to another, but his own Work he will carry on, no<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by the Might or Power of Man,
+<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot by his own Spirit; for he bringeth to paſs whatſoever he pleaſeth, who overturns the Powers of Men by throwing down one, and ſetting up another, when he will, and
+<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hom he will, and there is nothing too hard for him to do.</p>
+            <p>Therefore unto you, in Love to your Souls, O ye Magiſtrates and Rulers, Prieſts and People, my Counſel and Advice is, in the Fear of the Lord, That you put from a<g ref="char:EOLhyphen"/>mong
+you that wicked thing (to wit, <hi>Perſecution)</hi> which hath ſorely diſpleaſed the Lord, and kindled his Anger againſt you; therefore ceaſe perſecuting the Innocent by re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ling
+all your Laws and Decrees that have been made againſt them, and no longer ſeek to build up your Profeſſion to Religion by Blood, or Force of Outward Strength, but
+<gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Lord be worſhipped by his people in your Towns and Villages, when and where he pleaſeth, and ſeek not to limit the Holy One by your Laws or Outward Power, ei<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er
+to place or time; for he is not to be limited.</p>
+            <p>Therefore O ye Magiſtrates and Rulers, Let all have their Liberties in things appertaining to Conſcience; for it is the Lord's Right to rule and govern there: ſo conſider
+<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heſe things in Coolneſs, I deſire you, and let the Spirit of Love bear rule in you, ſo will Moderation be in all your Wayes and Doings, and you will come to learn the Coun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+of <hi>Gamaliel,</hi> who was a Ruler, and in letting all alone you will come to ſee, that all that are of God will ſtand, grow and flouriſh, when all other Profeſſions will fall, wither
+and dye, ſo they will come to nothing in time without the help of any Carnal Weapon. Therefore let all the Beaſts power of Forcing and Compelling be put aſide; for it
+<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>th made many Hypocrites, but Experience never did ſhew us, either in this Age or any other, that ever it made one <hi>Chriſtian;</hi> and ſeeing it is ſo, then ſurely there is a great
+neceſſity that all Profeſſions ſhould have their Liberties in things appertaining to Conſcience, and where any matter of Difference lies between them in matters of Worſhip, or
+any other thing, I ſay, in ſuch a Caſe, let them labour to convince one the other by ſound Arguments, and let them bring forth their ſpiritual Weapons againſt ſpiritual Wick<g ref="char:EOLhyphen"/>edneſs,
+and this is according to the Practice of the Apoſtles and primitive <hi>Chriſtians,</hi> the Weapons of whoſe Warfare were not Carnal (as ſaid the Apoſtle <hi>Paul)</hi> but mighty
+through God to the pulling down of Strong Holds, as you may read in <hi>2 Cor.</hi> 10. 4. and with thoſe Weapons they warred againſt ſpiritual Wickedneſs, though it was in high
+places; read <hi>Epheſ.</hi> 6. 12. and thus were Men and Women in the Apoſtles day brought to and eſtabliſhed in the pure and undefiled Religion, in which they were kept from
+the Spots of the World, and this the force of Laws and outward Weapons could never do: Therefore mind the gentle Leadings and tender Drawings of the Lord's good
+Spirit, that by it you may be removed out of the Evil Way, ſo will you eſcape the Stroak of his Arm, and be preſerved from the force of his Blow, which otherwiſe will
+aſſuredly come upon you.</p>
+            <p>This, in Obedience to the Requirings of the Lord through his bleſſed Spirit, have I written unto you in true Love to your Souls, not knowing at preſent whether ever I may
+ſee your Faces, yea or nay; ſo bidding you farewel, I Reſt, who am a true Lover of your Souls, but do hate that perſecuting ſpirit by which you have been led.</p>
+            <closer>
+               <signed>I am known to many by the Name of John Browne of Nevis.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <p>
+               <hi>A Warning from the great God of Heaven and Earth, to the Rulers and Magiſtrates of</hi> Boſton <hi>in</hi> New-England, <hi>that they put not in practice that cruel Law, that they have
+made concerning Swearing. Now this is the Word of the Lord unto you all, thus ſaith the Lord God of</hi> Iſrael, provoke not, nor cauſe not my People to break nor violate my ho<g ref="char:EOLhyphen"/>ly
+Law, Recorded in the holy Scriptures of Truth, that ſaith, Swear not at all: <hi>For thus ſaith the Lord,</hi> My Spirit ſhall not alwayes ſtrive with man, whoſe Breath is in his Noſtrils,
+but I will ariſe, <hi>ſaith the Lord,</hi> and will caſe my ſelf of mine Enemies, and be avenged of mine Adverſaries; they ſhall know that I the Lord will Rule, and doth hear Rule in the Con<g ref="char:EOLhyphen"/>ſciences
+of a tender hearted People, that dare not Break nor Violate that holy Law and Command of Chriſt, that ſaith, Swear not at all. <hi>Theſe few words were laid upon me from
+the Lord to write unto you, and whether you will hear or forbear I ſhall be clear of your Blood thus far.</hi>
+            </p>
+            <closer>
+               <signed>This is from one who is a Lover of your Souls, and am known by the Name of MARGARET BRAISTER.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in the Year 1678.</p>
+            <pb facs="tcp:172144:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
